@@ -1,0 +1,42 @@
+INTRODUCTION :
+Blockchain technology is a decentralized digital ledger that records transactions across multiple computers in a secure and transparent manner. It originated in 2008 with the introduction of Bitcoin by an anonymous person or group known as Satoshi Nakamoto. Since then, it has evolved significantly.
+
+KEY CONCEPT :
+Key concepts in blockchain include decentralization, which means there is no central authority controlling the network; consensus mechanisms, which ensure agreement among participants on the validity of transactions; and cryptographic hashing, which secures data integrity.
+
+TYPES OF BLOCKCHAIN:
+public blockchains, like Bitcoin and Ethereum, are open to anyone to participate and view transactions; private blockchains restrict access to authorized users only; permissioned blockchains require participants to be authenticated before joining, while permissionless blockchains allow anyone to join without authorization.
+
+HYBRID BLOCKCHAIN:
+Hybrid blockchains combine elements of both public and private blockchains, offering flexibility and scalability.
+
+A hybrid blockchain is a combination of both public and private blockchain elements, offering features of both types. In a hybrid blockchain, certain aspects of the network are public and open to anyone, while other aspects are private and restricted to authorized participants.
+
+One common use case for hybrid blockchains is in supply chain management, where certain data may need to be publicly accessible for transparency, such as tracking the movement of goods, while other data, such as sensitive business transactions or contracts, may need to be kept private among a select group of participants.
+
+BLOCKCHAIN USE CASES :
+Blockchain has various applications across industries, including finance, supply chain management, healthcare, and voting systems. It's used for secure and transparent transactions, provenance tracking, smart contracts, and more, revolutionizing how data is stored and shared.Public and private blockchains differ in their accessibility, permissioning, and governance:
+
+1. Public Blockchain:
+
+- Public blockchains are open and permissionless, allowing anyone to participate in the network, read the transactions, and validate blocks.
+
+- Participants can join the network anonymously without requiring authorization.
+
+- Examples include Bitcoin and Ethereum.
+
+2. Private Blockchain:
+
+- They offer greater control, scalability, and privacy compared to public blockchains but sacrifice some degree of decentralization and transparency.
+
+- Participants are typically known entities, such as businesses, organizations, or consortium members.
+
+- Examples include Hyperledger Fabric and R3 Corda.
+
+Permissioned and permissionless blockchains differ in their approach to network participation and governance:
+
+Permissioned Blockchain:
+In a permissioned blockchain, access to the network and participation in transaction validation are restricted to authorized entities. These entities are typically known and trusted participants who are granted permission by the network owner or administrator. Permissioned blockchains offer greater control, scalability, and privacy compared to permissionless blockchains.
+
+Permissionless Blockchain:
+In contrast, permissionless blockchains are open and decentralized networks where anyone can join, participate in transaction validation, and access the data without requiring authorization. Participants in permissionless blockchains can join the network anonymously, and transactions are validated through consensus mechanisms agreed upon by the network.
